@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/skiman10
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://skiman6010.github.io
+  * I am skiman10 (https://keybase.io/skiman10) on keybase.
+  * I have a public key with fingerprint 52F6 8E61 66FA B462 5485  F9E5 EAB7 4343 DFBA A55B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dc06feb207e48420b4884d2a6b5d0e55e2c867af82da5617c544c9d4e6685f700a",
+      "fingerprint": "52f68e6166fab4625485f9e5eab74343dfbaa55b",
+      "host": "keybase.io",
+      "key_id": "eab74343dfbaa55b",
+      "kid": "0101dc06feb207e48420b4884d2a6b5d0e55e2c867af82da5617c544c9d4e6685f700a",
+      "uid": "ad12fd38ac326032b4bc0b609135d319",
+      "username": "skiman10"
+    },
+    "service": {
+      "hostname": "skiman6010.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1505316891,
+  "expire_in": 157680000,
+  "prev": "7362896abfd28e283a27ddf87399764bab4ac620ab93bb5cc554eed584efd901",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJbSBVBGMePZaaHzJOCCaHiFomlNbs7M7t7pLCgHoIuSBTR5TCzM3tc
+1HNOe/ac8i5JggVB2YtQWS8F3TCxogtdpE6R0EtB0QUKI0gDsyjKEpq1egh6bF6G
++fj9//P/vpk72dN9/rThvo7+xMr2u2lDt3sTvi1XNsxrkmiUNUjBJqmWT228jvG4
+G6q1mRSUgAxkZgJscaoAjUMdKoBCXYdMIZgiBjhCXDF1rBFLVxhBWNZMBKFpMMgx
+1pGlAUCkcsmyI2HuxBw74gpbpFhY51jG2CIUYgVBQRoccUI1qEKVWZQQhKgQ1kTj
+nkKEoyTOl9hRUROH0FS8f/D/OXdiyo4wWbGYqhNTVTBQFQqpCSgGhqwipsqGB8a5
+EyH1XNDxWrueRGQgtZRLopq0Te4N1uvkLwKLlEvCtluToL/6ijlRN2pG6wRR47qx
+eNBzcBtinmQXp6HfZiFqR5iYp1AkuRO3oxEpKAvSdG3PXUYAqTLWDblc4rtjtsND
+tkcgDetALO8enhSWmooV3cCEWkzRuaKrRNEYs3RNNQwNQyqehphYAYQaKqXINBGC
+nDOkQ24xA8iS197OSFQKIhGThL3G7HCEuAmHSy2Dt7al+9L8vowZ07x/5vNnBf78
+vpIbmb7eax1oPKPLX3q/bevHjMJnTy7eHA6+fzNx6o4v/8yyR6+pMye7Yv766x0r
+Vt0o6N/xojDZl1k7OXckFH9ZTBYeCvQ4a6B5OT3QXbCvZTxnS+jqj6YLV1/1BBY8
+zi1atnLdaP++4lDnQM230XEQWPp573ne9/XwvfrlM9+dbnzY/SlzsHhOdfWsk2Ts
+y/RFgYOL1+aeNUobJ/bIMDUxdn/189a2nIzjXWUH8o9WnEuRuofbk8cGZ2S5vtan
+rPNgZU7Z/srezE35J7avT8WebBytGhhKFYXT21OTb0eq8joriwqtEXW+2zy7Z/Ol
+D3f9D/IWLaiKVaxb3S0daS7pOrVN+56a+AnnLzva
+=d/Iz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skiman10
+
+==================================================================
