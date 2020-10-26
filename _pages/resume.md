@@ -16,7 +16,7 @@ permalink: /resume/
 
 ## Experience
 
-### SATORI CONTINUUM (2018 - Present)
+### SATORI CONTINUUM (2018 - 2020)
 ***Data Scientist***
 
 Create a new department in the company for data science and create the pipelines needed for quick, efficient analysis on different data points within the company. Deploy in-production machine learning models to analyze and help customers become certified in courses to help save lives around the globe.
@@ -43,5 +43,6 @@ Support the business by troubleshooting technological innovation problems to ens
 ## Professional Training and Accomplishments
 - Eagle Scout 2014
 - Certified in Neural Networks and Deep Learning 2017
-- HarvardX Scientific Computing Courses
+- HarvardX Scientific Computing Courses 2020
+- MIT Math Computation Thinking Course 2020
 
