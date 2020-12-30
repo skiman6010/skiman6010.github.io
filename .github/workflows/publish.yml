@@ -11,14 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Generate Date
-        run: echo "NOW::$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        id: date
+        run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       - name: Generate Post
         env:
           POST_TITLE: ${{ github.event.issue.title }}
           POST_BODY: ${{ github.event.issue.body }}
         run: |
           preprocess_bin="$PWD/frontmatterify"
-          save_to="_posts/$NOW-$POST_TITLE"
+          save_to="_posts/${{ steps.date.outputs.date }}-$POST_TITLE"
           cd "_posts"
           $preprocess_bin > index.md << EOF
           $POST_BODY
