@@ -21,7 +21,7 @@ jobs:
           preprocess_bin="$PWD/frontmatterify"
           save_to="_posts/${{ steps.date.outputs.date }}-$POST_TITLE"
           cd "_posts"
-          $preprocess_bin > index.md << EOF
+          $preprocess_bin > ${{ steps.date.outputs.date }}-$POST_TITLE << EOF
           $POST_BODY
           EOF
           
