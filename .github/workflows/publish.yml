@@ -22,7 +22,7 @@ jobs:
           save_to="_posts/$date-$POST_TITLE"
           filename="$date-$POST_TITLE"
           cd "_posts"
-          $preprocess_bin > ${filename}.md << EOF
+          $preprocess_bin > "${filename}.md" << EOF
           $POST_BODY
           EOF
           
